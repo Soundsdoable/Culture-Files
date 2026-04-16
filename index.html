@@ -179,6 +179,41 @@ footer {
   border-top: 1px solid #e0e0e0;
   background: #fff;
 }
+
+.manual-card { cursor: pointer; }
+.modal-overlay {
+  display: none; position: fixed; inset: 0;
+  background: rgba(0,0,0,0.65); z-index: 100;
+}
+.modal-overlay.open { display: block; }
+.modal-sheet {
+  position: fixed; bottom: 0; left: 0; right: 0;
+  background: #1a1a1a; color: #e0e0e0;
+  border-radius: 16px 16px 0 0;
+  padding: 0; z-index: 101;
+  max-height: 85vh; overflow-y: auto;
+  transform: translateY(100%);
+  transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
+  max-width: 680px; margin: 0 auto;
+}
+.modal-sheet.open { transform: translateY(0); }
+.modal-img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 16px 16px 0 0; display: block; }
+.modal-body { padding: 20px 22px 36px; position: relative; }
+.modal-close {
+  position: absolute; top: -42px; right: 14px;
+  background: rgba(0,0,0,0.55); border: none; color: #fff;
+  width: 34px; height: 34px; border-radius: 50%;
+  font-size: 1rem; cursor: pointer; line-height: 34px; text-align: center;
+}
+.modal-title { font-size: 1.05rem; font-weight: 700; margin-bottom: 5px; color: #fff; }
+.modal-meta  { font-size: 0.72rem; color: #888; margin-bottom: 14px; }
+.modal-desc  { font-size: 0.84rem; line-height: 1.7; color: #bbb; white-space: pre-wrap; word-break: break-word; }
+.modal-listen {
+  display: inline-block; margin-top: 18px; background: #c00; color: #fff;
+  padding: 9px 22px; border-radius: 6px; text-decoration: none;
+  font-size: 0.85rem; font-weight: 600;
+}
+.modal-listen:hover { background: #e00; }
 </style>
 </head>
 <body>
@@ -204,7 +239,7 @@ footer {
 <main>
   <div class="grid" id="grid">
 
-      <a href="" class="card culture_file" target="_blank" rel="noopener">
+      <div class="card culture_file manual-card" onclick="openModal(0)">
         <div class="img-wrap">
           <img src="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/100caterpillars.png" alt="100 Caterpillars? €259" loading="lazy" onerror="this.style.display='none'">
           <div class="overlay"><p>If you fancy having a look at Paddy Woodworth’s latest choice for The Naturalist’s Bookshelf - Miller, Jansen and Hallwach’s 100 C…</p></div>
@@ -214,7 +249,7 @@ footer {
           <h3>100 Caterpillars? €259</h3>
           <span class="date"></span>
         </div>
-      </a>
+      </div>
       <a href="https://omny.fm/shows/culture-file/viet-and-nam-connie-converse-fin-family-moomins-culture-file-digital-single" class="card culture_file" target="_blank" rel="noopener">
         <div class="img-wrap">
           <img src="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/finfamilymoomin.jpg" alt="Viet and Nam, Connie Converse, Finn Family Moomintroll | Culture File Digital Single" loading="lazy" onerror="this.style.display='none'">
@@ -1440,7 +1475,7 @@ footer {
 </main>
 
 <footer>
-  Updated 16 Apr 2026, 20:01 UTC &nbsp;·&nbsp; Culture File · RTÉ lyric fm
+  Updated 16 Apr 2026, 21:00 UTC &nbsp;·&nbsp; Culture File · RTÉ lyric fm
 </footer>
 
 <script>
@@ -1467,6 +1502,51 @@ footer {
     });
   });
 })();
+</script>
+
+
+<div class="modal-overlay" id="modal-overlay" onclick="closeModal()"></div>
+<div class="modal-sheet" id="modal-sheet">
+  <img class="modal-img" id="modal-img" src="" alt="" style="display:none">
+  <div class="modal-body">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div id="modal-badge"></div>
+    <div class="modal-title" id="modal-title"></div>
+    <div class="modal-meta"  id="modal-meta"></div>
+    <div class="modal-desc"  id="modal-desc"></div>
+    <div id="modal-link"></div>
+  </div>
+</div>
+
+<script>
+var MANUAL_EPS = [{"title": "100 Caterpillars? €259", "description": "If you fancy having a look at Paddy Woodworth’s latest choice for The Naturalist’s Bookshelf - Miller, Jansen and Hallwach’s 100 Caterpillars – Portraits from the Tropical Forests of Costa Rica - you can snap up the hardback on Amazon for a mere €2.59 per caterpillar. But if you’d like to test the full colour merchandise before you commit, you can also find an online copy of Archive.org. And in truth, you want to see this one way or the other.\n\nAmazon.ie\nhttps://www.amazon.ie/100-Caterpillars-Portraits-Tropical-Forests/dp/0674021908/ref=tmm_hrd_swatch_0\n\nArchive.org\nhttps://archive.org/details/100caterpillarsp0000mill/page/40/mode/2up", "link": "", "image_url": "https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/100caterpillars.png", "date": "", "label": "culture_file"}];
+function _lnk(t) {
+  return t.replace(/(https?:\/\/[^\s<>"']+)/g,
+    '<a href="$1" target="_blank" rel="noopener" style="color:#fc0;text-decoration:underline">$1</a>');
+}
+function openModal(idx) {
+  var ep  = MANUAL_EPS[idx];
+  var img = document.getElementById('modal-img');
+  if (ep.image_url) { img.src = ep.image_url; img.style.display = 'block'; }
+  else { img.style.display = 'none'; }
+  document.getElementById('modal-badge').innerHTML = ep.label === 'comfort_zone'
+    ? '<span class="badge tcz" style="margin-bottom:8px;display:inline-block">The Comfort Zone</span>' : '';
+  document.getElementById('modal-title').textContent = ep.title;
+  document.getElementById('modal-meta').textContent  = ep.date;
+  document.getElementById('modal-desc').innerHTML    = _lnk(ep.description);
+  var linkEl = document.getElementById('modal-link');
+  linkEl.innerHTML = ep.link
+    ? '<a class="modal-listen" href="' + ep.link + '" target="_blank" rel="noopener">Listen ↗</a>' : '';
+  document.getElementById('modal-overlay').classList.add('open');
+  document.getElementById('modal-sheet').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('open');
+  document.getElementById('modal-sheet').classList.remove('open');
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeModal(); });
 </script>
 
 </body>
