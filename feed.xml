@@ -9,10 +9,22 @@
     <description>Culture File and The Comfort Zone — RTÉ lyric fm with Luke Clancy</description>
     <language>en-ie</language>
     <itunes:author>Luke Clancy</itunes:author>
-    <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/auto_images/culture-file-digital-single-pick-of-the-week.jpg"/>
+    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/1bfd46e6-58d1-431b-9fb0-b43d00ed710a/image.jpg?t=1777645492&size=Large"/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 30 Apr 2026 12:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 14:42:36 +0000</lastBuildDate>
+    <item>
+      <title>The Culture File Debate: The Shortwave Orchestra</title>
+      <description>The Shortwave Orchestra is a collection of experimental musicians who came together to play for the first time in Dublin in April. Following their world premier performance, Culture File convened a panel featuring Orchestra members, Aileen Wallace, Bryan O’Connell, Dennis McNulty and Orchestra instigator, Touch's Mike Harding, to talk about the modular synth scene, endangered communities and surviving in the avant garde. (photo: Fergus Kelly)</description>
+      <link>https://omny.fm/shows/culture-file/the-culture-file-debate-the-shortwave-orchestra</link>
+      <guid isPermaLink="false">relay-25190</guid>
+      <pubDate>Fri, 01 May 2026 14:24:29 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/1bfd46e6-58d1-431b-9fb0-b43d00ed710a/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="38449873" type="audio/mpeg"/>
+      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/1bfd46e6-58d1-431b-9fb0-b43d00ed710a/image.jpg?t=1777645492&amp;size=Large"/>
+      <itunes:duration>2400</itunes:duration>
+      
+      <itunes:author>Luke Clancy</itunes:author>
+    </item>
     <item>
       <title>Culture File Digital Single: Pick of The Week</title>
       <description>The Comfort Zone's Colm Tóibín suggests reading a new literary biography by Nicholas Boggs, Baldwin: Alove Story; artist Harold Offed thinks a trip to your local Brazilian foods store would be a solid idea; and Luke Clancy recommends Emily leBarge's art 'n' trauma memoir, Dog Days.</description>
@@ -23,18 +35,6 @@
       <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/auto_images/culture-file-digital-single-pick-of-the-week.jpg"/>
       <itunes:duration>362</itunes:duration>
       
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
-      <title>Jim Thompson's Pop 1280: with Karen Solie | XXXL Edition</title>
-      <description>The Comfort Zone: TS Eliot Prize-winning Canadian poet, Karen Solie suggests our present moment might be an apt time for Colm Tóibín, Luke Clancy and everyone else to read Jim Thompson's nasty and hilarious Southern novel of crime, corruption and excrement, &quot;Pop 1280&quot;.</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22604192/</link>
-      <guid isPermaLink="false">22604192</guid>
-      <pubDate>Sat, 25 Apr 2026 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2026/0425/20260425_rtelyricfm-comfortzone-jimthompso_c22604192_22604193_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>01:07:33</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
@@ -116,7 +116,7 @@
       <guid isPermaLink="false">relay-22869</guid>
       <pubDate>Thu, 02 Apr 2026 16:06:00 +0000</pubDate>
       <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/09c2c96a-c744-4114-9772-b42001096d91/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="28435949" type="audio/mpeg"/>
-      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/09c2c96a-c744-4114-9772-b42001096d91/image.jpg?t=1775146850&amp;size=Large"/>
+      <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/auto_images/norma-winstone-living-on-the-wind-culture-file.jpg"/>
       <itunes:duration>1774</itunes:duration>
       
       <itunes:author>Luke Clancy</itunes:author>
@@ -266,18 +266,6 @@
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
-      <title>Neu! with Eleanor Myler XXXL Edition</title>
-      <description>Culture File Presents: The Comfort Zone. Drummer, vocalist and member of the danktrad supergroup, OXN, Eleanor Myler leads Colm Tóibín into the nice 'n' steady sound of krautrockers, Neu! (From 111025)</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22578088/</link>
-      <guid isPermaLink="false">22578088</guid>
-      <pubDate>Thu, 29 Jan 2026 00:15:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2026/0129/20260129_rtelyricfm-comfortzone-neuwithele_c22578088_22580003_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>01:03:04</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
       <title>The Culture File Debate: Quiet/Loud XXXL Edition</title>
       <description>The Culture File panel explores the place of quiet and loud in the contemporary attention economy, with poet, Paula Meehan and musicians and composers, Siobhán Cleary, John Godfrey, and Christine Tobin. Recorded live at New Music Dublin 2025. (From 260425)</description>
       <link>https://omny.fm/shows/culture-file/culture-file-2</link>
@@ -287,18 +275,6 @@
       <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/ff865f68-2d82-4fe0-925b-b3db00d51002/image.jpg?t=1769173003&amp;size=Large"/>
       <itunes:duration>2820</itunes:duration>
       
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
-      <title>Burn a Million Quid XXXL Edition</title>
-      <description>Culture File Presents: The Comfort Zone Artist and curator, Kerry Guinan join Colm Tóibín and Luke Clancy to rake over the embers of art-provocateurs K-Foundation's 1994 performance of burning £1 million on a Scottish island. (First broadcast July 25)</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22575737/</link>
-      <guid isPermaLink="false">22575737</guid>
-      <pubDate>Sat, 17 Jan 2026 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2026/0117/20260117_rtelyricfm-comfortzone-burnamilli_c22575737_22575739_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>01:02:00</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
@@ -347,42 +323,6 @@
       <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/ee6244d5-3b71-4bfa-843a-b3b7010527ed/image.jpg?t=1766073073&amp;size=Large"/>
       <itunes:duration>2432</itunes:duration>
       
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
-      <title>Close Up Magic: with Michael Dervan XXXL Edition</title>
-      <description>Culture File Presents: The Comfort Zone. Music critic Michael Dervan wants everyone in the zone to enjoy the artistry of The Great Slydini and other masters of sleight of hand and misdirection.</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22569988/</link>
-      <guid isPermaLink="false">22569988</guid>
-      <pubDate>Sat, 20 Dec 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/1220/20251220_rtelyricfm-comfortzone-closeupmag_c22569988_22569990_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/TCZ_colm%26michael_magic.jpg"/>
-      <itunes:duration>0:59:33</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
-      <title>The Rats: 'horrademic'</title>
-      <description>Culture File Presents: The Comfort Zone The Rats: 'horrademic' Prof Darryl Jones brings a favourite 1970s gorecore novel into the Zone, with a steer that James Herbert's The Rats, racism, misogyny and homophobia notwithstanding, something to offer the world of 2025</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22570035/</link>
-      <guid isPermaLink="false">22570035</guid>
-      <pubDate>Sat, 20 Dec 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/1220/20251220_rtelyricfm-comfortzone-theratshor_c22570035_22570039_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>0:29:40</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
-      <title>The Rats: 'horrademic' XXXL Edition</title>
-      <description>Culture File Presents: The Comfort Zone The Rats: 'horrademic' Prof Darryl Jones brings a favourite 1970s gorecore novel into the Zone, with a steer that James Herbert's The Rats, racism, misogyny and homophobia notwithstanding, something to offer the world of 2025</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22570036/</link>
-      <guid isPermaLink="false">22570036</guid>
-      <pubDate>Sat, 20 Dec 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/1220/20251220_rtelyricfm-comfortzone-theratshor_c22570036_22570040_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>0:57:27</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
@@ -446,18 +386,6 @@
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
-      <title>The Art of Listening: Under Water: with Finola Merivale - XXXL Edition</title>
-      <description>Culture File Presents: The Comfort Zone. Composer, Fiona Merivale encourages Colm Tóibín to tune into The Art of Listening: Under Water, a recent work by the legendary Norwegian recordist and composer, Jana Winderen.</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22561340/</link>
-      <guid isPermaLink="false">22561340</guid>
-      <pubDate>Sat, 22 Nov 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/1122/20251122_rtelyricfm-comfortzone-theartofli_c22561340_22561342_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>0:51:04</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
       <title>The Art of Listening: Under Water: with Finola Merivale</title>
       <description>Culture File Presents: The Comfort Zone XXXL Edition. Composer, Fiona Merivale encourages Colm Tóibín to tune into The Art of Listening: Under Water, a recent work by the legendary Norwegian recordist and composer, Jana Winderen.</description>
       <link>https://omny.fm/shows/culture-file/the-art-of-listening-under-water-with-finola-merivale</link>
@@ -506,18 +434,6 @@
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
-      <title>Beatles 64: with Christine Feldman-Barrett XXXL Edition</title>
-      <description>Culture File Presents: The Comfort Zone. Beatledemic Christine Feldman-Barrett joins Luke Clancy and Colm Toibin to watch the latest in a long line of Beatlementaries, and talk about Taylor Swift, fandom and the secrets of sex appeal (they're secret).</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22557908/</link>
-      <guid isPermaLink="false">22557908</guid>
-      <pubDate>Sat, 08 Nov 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/1108/20251108_rtelyricfm-comfortzone-beatles64w_c22557908_22557910_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>0:54:28</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
       <title>Beatles 64: with Christine Feldman-Barrett</title>
       <description>Culture File Presents: The Comfort Zone. XXXL Edition. Beatledemic Christine Feldman-Barrett joins Luke Clancy and Colm Toibin to watch the latest in a long line of Beatlementaries, and talk about Taylor Swift, fandom and the secrets of sex appeal (they're secret).</description>
       <link>https://omny.fm/shows/culture-file/beatles-64-with-christine-feldman-barrett</link>
@@ -554,18 +470,6 @@
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
-      <title>Hope and Glory: with Rosie Lavan | XXXL Version</title>
-      <description>Culture File Presents: The Comfort Zone. Academic and editor, Rosie Lavan wants us to think again about John Boorman's rosey 1987 Blitz biopic, Hope and Glory.</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22554690/</link>
-      <guid isPermaLink="false">22554690</guid>
-      <pubDate>Sat, 25 Oct 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/1025/20251025_rtelyricfm-comfortzone-hopeandglo_c22554690_22554692_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>0:56:58</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
       <title>Hope and Glory: with Rosie Lavan</title>
       <description>Culture File Presents: The Comfort Zone. Academic and editor, Rosie Lavan wants us to think again about John Boorman's rosey 1987 Blitz biopic, Hope and Glory.</description>
       <link>https://omny.fm/shows/culture-file/hope-and-glory-with-rosie-lavan</link>
@@ -599,18 +503,6 @@
       <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/2dac72bc-c164-470d-a979-b3780109651e/image.jpg?t=1760630781&amp;size=Large"/>
       <itunes:duration>1740</itunes:duration>
       
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
-      <title>Neu!: with Eleanor Myler XXXL Version</title>
-      <description>Culture File Presents: The Comfort Zone. Drummer, vocalist and member of the danktrad supergroup, OXN, Eleanor Myler leads Colm Toibin into the nice 'n' steady sound of krautrockers, Neu!</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22550935/</link>
-      <guid isPermaLink="false">22550935</guid>
-      <pubDate>Sat, 11 Oct 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/1011/20251011_rtelyricfm-comfortzone-neuwithele_c22550935_22550938_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>01:03:04</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
@@ -782,18 +674,6 @@
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
-      <title>Burn a Million Quid: Kerry Guinan XXXL Edition</title>
-      <description>Culture File Presents: The Comfort Zone XXXL Mix. Artist and curator Kerry Guinan joins Colm Tóibín and Luke Clancy for an extended chat to rake over the embers of art-provocateurs K-Foundation's 1994 performance of burning £1 million on a Scottish island.</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22533492/</link>
-      <guid isPermaLink="false">22533492</guid>
-      <pubDate>Fri, 25 Jul 2025 16:38:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/0725/20250725_rtelyricfm-comfortzone-burnamilli_c22533492_22533493_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>01:02:00</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
       <title>Burn a million quid:  Kerry Guinan</title>
       <description>Culture File Presents: The Comfort Zone XXXL Edition. This time, artist and curator, Kerry Guinan join Colm Tóibín and Luke Clancy to rake over the embers of art-provocateurs K-Foundation's 1994 performance of burning £1 million on a Scottish island.</description>
       <link>https://omny.fm/shows/culture-file/burn-a-million-quid-kerry-guinan</link>
@@ -950,18 +830,6 @@
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
-      <title>Culture File Presents: The Comfort Zone XXL</title>
-      <description>Keening: Fermanagh composer and musician, Róis brings some of the few surviving recordings of keening in the old style into The Comfort Zone, where the conversation with Colm Toibin turns to JM Synge, RIP.ie and real &quot;doomscrolling&quot;</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22513204/</link>
-      <guid isPermaLink="false">22513204</guid>
-      <pubDate>Thu, 15 May 2025 16:20:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/0515/20250515_rtelyricfm-comfortzone-culturefil_c22513204_22513205_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>0:45:30</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
       <title>Jóhann Jóhannsson's Not Mass | Culture File</title>
       <description>Conductor, teacher and former King Singer, Gabriel Crouch, on the mysteries of the late composer Jóhann Jóhannsson &quot;not classical&quot; &quot;not mass&quot; work, Drone Mass.</description>
       <link>https://omny.fm/shows/culture-file/culture-file</link>
@@ -1055,18 +923,6 @@
       <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/b3c7af1f-c8e7-4af7-b31b-b2bc010690c0/image.jpg?t=1744386962&amp;size=Large"/>
       <itunes:duration>3731</itunes:duration>
       
-      <itunes:author>Luke Clancy</itunes:author>
-    </item>
-    <item>
-      <title>The Comfort Zone</title>
-      <description>Luke Clancy and Colm Tóibín plus a new guest each week light out for the territories, culture-wise</description>
-      <link>https://www.rte.ie/radio/lyricfm/clips/22489893/</link>
-      <guid isPermaLink="false">22489893</guid>
-      <pubDate>Sat, 15 Feb 2025 18:30:00 +0000</pubDate>
-      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2025/0215/20250215_rtelyricfm-comfortzone-thecomfort_c22489893_22489908_232_.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
-      <itunes:duration>0:29:20</itunes:duration>
-      <itunes:keywords>Comfort Zone</itunes:keywords>
       <itunes:author>Luke Clancy</itunes:author>
     </item>
     <item>
