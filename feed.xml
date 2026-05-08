@@ -9,10 +9,22 @@
     <description>Culture File and The Comfort Zone — RTÉ lyric fm with Luke Clancy</description>
     <language>en-ie</language>
     <itunes:author>Luke Clancy</itunes:author>
-    <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/auto_images/the-culture-file-debate-the-shortwave-orchestra.jpg"/>
+    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/7032cbad-a4cb-4910-acb3-b44400d0edd7/image.jpg?t=1778244072&size=Large"/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 06 May 2026 21:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:46:32 +0000</lastBuildDate>
+    <item>
+      <title>Gorjira's Fortitude: with Rónán Ó Raghallaigh</title>
+      <description>The Comfort Zone: artist and performer, Rónán Ó Raghallaigh asks Colm and Luke to focus on the work of French-American band, Gorjira's album, Fortitude, in a conversation that touches on metal's relationship with trance and pre-Christian Irish traditions of imbas forosnai, as well as the politics of noise, wind turbines, Prof. Ivor Brown, and Californian gay biker culture.</description>
+      <link>https://omny.fm/shows/culture-file/gorjiras-fortitude-with-r-n-n-raghallaigh</link>
+      <guid isPermaLink="false">relay-25901</guid>
+      <pubDate>Fri, 08 May 2026 12:40:40 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/7032cbad-a4cb-4910-acb3-b44400d0edd7/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="52445119" type="audio/mpeg"/>
+      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/7032cbad-a4cb-4910-acb3-b44400d0edd7/image.jpg?t=1778244072&amp;size=Large"/>
+      <itunes:duration>3275</itunes:duration>
+      <itunes:keywords>Comfort Zone</itunes:keywords>
+      <itunes:author>Luke Clancy</itunes:author>
+    </item>
     <item>
       <title>The Culture File Debate: The Shortwave Orchestra</title>
       <description>The Shortwave Orchestra is a collection of experimental musicians who came together to play for the first time in Dublin in April. Following their world premier performance, Culture File convened a panel featuring Orchestra members, Aileen Wallace, Bryan O’Connell, Dennis McNulty and Orchestra instigator, Touch's Mike Harding, to talk about the modular synth scene, endangered communities and surviving in the avant garde. (photo: Fergus Kelly)</description>
