@@ -9,10 +9,22 @@
     <description>Culture File and The Comfort Zone — RTÉ lyric fm with Luke Clancy</description>
     <language>en-ie</language>
     <itunes:author>Luke Clancy</itunes:author>
-    <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/auto_images/culture-file-digital-single-comfort-zone-pick-of-the-week.jpg"/>
+    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/c8d338a7-43b4-4535-8a4f-b45200dc4e74/image.jpg?t=1779456157&size=Large"/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 21 May 2026 13:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:17:10 +0000</lastBuildDate>
+    <item>
+      <title>M.I Abaga's &quot;Illegal Music 3&quot; with Dagogo Hart</title>
+      <description>The Comfort Zone: Playwright and performer, Dagogo Hart introduces a classic of Nigerian hip-hop into the Zone, in the shape of M.I Abaga's 2016 &quot;Illegal Music 3&quot; mixtape</description>
+      <link>https://omny.fm/shows/culture-file/m-i-abagas-illegal-music-3-with-dagogo-hart</link>
+      <guid isPermaLink="false">relay-27848</guid>
+      <pubDate>Fri, 22 May 2026 13:22:06 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/c8d338a7-43b4-4535-8a4f-b45200dc4e74/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="56663580" type="audio/mpeg"/>
+      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/c8d338a7-43b4-4535-8a4f-b45200dc4e74/image.jpg?t=1779456157&amp;size=Large"/>
+      <itunes:duration>3539</itunes:duration>
+      <itunes:keywords>Comfort Zone</itunes:keywords>
+      <itunes:author>Luke Clancy</itunes:author>
+    </item>
     <item>
       <title>Culture File Digital Single: Comfort Zone Pick of The Week</title>
       <description>Marking your cards for some time well spent, Colm Tóibín suggests getting down to zero with Shostakovich's last string quartet; Canadian poet, Karen Solie points out Nathalie Léger's 2012 book, Suite For Barbara Loden, to be enjoyed along with Loden's 1970 classic, Wanda; and Luke Clancy is learning to assemble a soundsystem in the Moroccan outback with the help of director Óliver Laxe's 2025 film, Sirā</description>
