@@ -9,10 +9,22 @@
     <description>Culture File and The Comfort Zone — RTÉ lyric fm with Luke Clancy</description>
     <language>en-ie</language>
     <itunes:author>Luke Clancy</itunes:author>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/91ff48ab-9a19-44f3-8d6c-b46e00e4f029/image.jpg?t=1781877230&size=Large"/>
+    <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 19 Jun 2026 13:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 18:34:25 +0000</lastBuildDate>
+    <item>
+      <title>Jesus Christ Superstar with Emma Dabiri XXXL Version</title>
+      <description>The Comfort Zone: writer, Emma Dabiri invites Colm Tóibín and Luke Clancy to get with the subversive allure of Carl Anderson's Judas, and other hidden treasures in the 1973 film version of the Rice and Lloyd Webber musical, Jesus Christ Superstar.</description>
+      <link>https://www.rte.ie/radio/lyricfm/clips/22622939/</link>
+      <guid isPermaLink="false">22622939</guid>
+      <pubDate>Sat, 20 Jun 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2026/0620/20260620_rtelyricfm-comfortzone-jesuschris_c22622939_22622944_232_.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
+      <itunes:duration>01:06:15</itunes:duration>
+      <itunes:keywords>Comfort Zone</itunes:keywords>
+      <itunes:author>Luke Clancy</itunes:author>
+    </item>
     <item>
       <title>Culture File</title>
       <description>The Comfort Zone: writer, Emma Dabiri invites Colm Tóibín and Luke Clancy to get with the subversive allure of Carl Anderson's Judas, and other hidden treasures in the 1973 film version of the Rice and Lloyd Webber musical, Jesus Christ Superstar.</description>
