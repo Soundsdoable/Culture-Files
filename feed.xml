@@ -9,10 +9,10 @@
     <description>Culture File and The Comfort Zone — RTÉ lyric fm with Luke Clancy</description>
     <language>en-ie</language>
     <itunes:author>Luke Clancy</itunes:author>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/67ef883e-a1a2-4828-823a-b47b00e95340/image.jpg?t=1783001381&size=Large"/>
+    <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/olesya-zdorovetska.jpg"/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 02 Jul 2026 18:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:27:22 +0000</lastBuildDate>
     <item>
       <title>The Shape of Jazz to Come: with Olesya Zdorovetska</title>
       <description>The Comfort Zone: musician, composer and improviser, Olesya Zdorovetska encourages Colm Tóibín and Luke Clancy to encounter the many freedoms offered in Ornette Coleman's 1959 free jazz throwdown/manifesto album, The Shape of Jazz To Come.</description>
@@ -20,7 +20,7 @@
       <guid isPermaLink="false">relay-33180</guid>
       <pubDate>Thu, 02 Jul 2026 14:09:30 +0000</pubDate>
       <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/67ef883e-a1a2-4828-823a-b47b00e95340/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="41687305" type="audio/mpeg"/>
-      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/67ef883e-a1a2-4828-823a-b47b00e95340/image.jpg?t=1783001381&amp;size=Large"/>
+      <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/olesya-zdorovetska.jpg"/>
       <itunes:duration>2604</itunes:duration>
       <itunes:keywords>Comfort Zone</itunes:keywords>
       <itunes:author>Luke Clancy</itunes:author>
