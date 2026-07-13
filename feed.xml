@@ -9,10 +9,10 @@
     <description>Culture File and The Comfort Zone — RTÉ lyric fm with Luke Clancy</description>
     <language>en-ie</language>
     <itunes:author>Luke Clancy</itunes:author>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/1970d1b6-b6b3-4e42-8eb8-b486008f260e/image.jpg?t=1783932081&size=Large"/>
+    <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/irish-wake-amusements.jpg"/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 13 Jul 2026 09:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:59:38 +0000</lastBuildDate>
     <item>
       <title>Irish Wake Amusements; Danh Vo; Paddy Woodworth; and Patrick O'Laoghaire | Culture File</title>
       <description>Lots of fun at fun at Rob Heaslip's Irish Wake Amusements; floral action from Amsterdam with Danh Vo's show at the Stedelijk Museum; Paddy Woodworth's Naturalist's Bookshelf too turns to flowers; and Patrick O'Laoghaire holds a wildflower in his hand.</description>
@@ -20,7 +20,7 @@
       <guid isPermaLink="false">relay-34835</guid>
       <pubDate>Mon, 13 Jul 2026 08:41:10 +0000</pubDate>
       <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/1970d1b6-b6b3-4e42-8eb8-b486008f260e/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="26523782" type="audio/mpeg"/>
-      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/1970d1b6-b6b3-4e42-8eb8-b486008f260e/image.jpg?t=1783932081&amp;size=Large"/>
+      <itunes:image href="https://raw.githubusercontent.com/Soundsdoable/Culture-Files/main/irish-wake-amusements.jpg"/>
       <itunes:duration>1656</itunes:duration>
       
       <itunes:author>Luke Clancy</itunes:author>
