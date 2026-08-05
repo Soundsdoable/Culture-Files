@@ -9,10 +9,34 @@
     <description>Culture File and The Comfort Zone — RTÉ lyric fm with Luke Clancy</description>
     <language>en-ie</language>
     <itunes:author>Luke Clancy</itunes:author>
-    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/68a745db-7366-4c27-8d1b-b49800f2f743/image.jpg?t=1785510057&size=Large"/>
+    <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/ecc89819-a024-47ca-b21a-b49d00939a64/image.jpg?t=1785920533&size=Large"/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 31 Jul 2026 15:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:31:57 +0000</lastBuildDate>
+    <item>
+      <title>Counting Bashō | Culture File</title>
+      <description>Translator and poet, Andrew Fitzsimons on translating the complete haikus of Basho, the 17th century master of the form, and on the work of one unfortunate contemporary follower, The Haiku Killer.</description>
+      <link>https://omny.fm/shows/culture-file/culture-file-6</link>
+      <guid isPermaLink="false">relay-38238</guid>
+      <pubDate>Wed, 05 Aug 2026 08:57:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/ecc89819-a024-47ca-b21a-b49d00939a64/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="30538499" type="audio/mpeg"/>
+      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/ecc89819-a024-47ca-b21a-b49d00939a64/image.jpg?t=1785920533&amp;size=Large"/>
+      <itunes:duration>1907</itunes:duration>
+      
+      <itunes:author>Luke Clancy</itunes:author>
+    </item>
+    <item>
+      <title>Fictions: The South | Culture File | XXXL Version</title>
+      <description>Culture File launches a summer reading club on the fictions of Argentine writer, Jorge Luis Borges. Each week, Luke and Colm welcome a special guest to explore a story from Borges' collection, Fictions. First up, The South, a dream-like mystery tale of a man held somewhere between life, death and Buenos Aires.</description>
+      <link>https://www.rte.ie/radio/lyricfm/clips/22634506/</link>
+      <guid isPermaLink="false">22634506</guid>
+      <pubDate>Sat, 01 Aug 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://podcast.rasset.ie/podcasts/audio/2026/0801/20260801_rtelyricfm-comfortzone-fictionsth_c22634506_22634507_232_.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://img.rasset.ie/00130895-144.jpg"/>
+      <itunes:duration>0:56:55</itunes:duration>
+      <itunes:keywords>Comfort Zone</itunes:keywords>
+      <itunes:author>Luke Clancy</itunes:author>
+    </item>
     <item>
       <title>Fictions: The South | Culture File</title>
       <description>Culture File launches a summer reading club on the fictions of Argentine writer, Jorge Luis Borges. Each week, Luke and Colm welcome a special guest to explore a story from Borges' collection, Fictions. First up, The South, a dream-like mystery tale of a man held somewhere between life, death and Buenos Aires. Joining the pursuit this time, scholar and author, Patricia N. Klingenberg.</description>
