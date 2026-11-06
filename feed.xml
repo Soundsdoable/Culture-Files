@@ -12,7 +12,19 @@
     <itunes:image href=""/>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 30 Oct 2026 18:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:52:54 +0000</lastBuildDate>
+    <item>
+      <title>Moose Pedals, musikprotokoll, Sophie Calle | Culture File</title>
+      <description></description>
+      <link>https://omny.fm/shows/culture-file/moose-pedals-musikprotokoll-sophie-calle-culture-file</link>
+      <guid isPermaLink="false">relay-53950</guid>
+      <pubDate>Fri, 06 Nov 2026 18:21:21 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/871c1f2c-6851-4f09-ba83-b4fa012e7fe6/audio.mp3?utm_source=Podcast&amp;in_playlist=d81ee6a1-2826-4fe8-83f2-b2bc010664d0" length="31121468" type="audio/mpeg"/>
+      <itunes:image href="https://www.omnycontent.com/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/eb7dd890-b52e-474f-9488-b2bc010664ad/871c1f2c-6851-4f09-ba83-b4fa012e7fe6/image.jpg?t=1793989289&amp;size=Large"/>
+      <itunes:duration>1942</itunes:duration>
+      
+      <itunes:author>Luke Clancy</itunes:author>
+    </item>
     <item>
       <title>Cat Power's Jukebox: with Emily LaBarge | The Comfort Zone</title>
       <description>The Comfort Zone: writer, critic and author of Dog Days, Emily LaBarge arrives to assert the unexpected magic of Cat Power's Jukebox, the 2008 covers album taking on Hank Williams, Billie Holiday and Joni Mitchell among others.</description>
